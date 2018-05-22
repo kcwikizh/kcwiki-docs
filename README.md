@@ -20,11 +20,9 @@ to-do列表
 
 需要保持更新的页面  游戏更新目录 [https://zh.kcwiki.org/wiki/游戏更新](https://zh.kcwiki.org/wiki/游戏更新)
 
-关键页面 侧边栏 搜索建议 最近更改 Lua数据页面 等
+关键页面 侧边栏 搜索建议 最近更改 Lua数据页面 首页关联Template等
 
+Template编写入门教程
 
-
-测试图片
-
-![](/assets/新手指导-创建账号1.jpg)
+Module编写入门教程
 
